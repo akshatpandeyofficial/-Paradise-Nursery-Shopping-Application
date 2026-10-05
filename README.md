@@ -15,6 +15,7 @@ A responsive plant shop built with React, Vite, and Redux Toolkit. Browse housep
 ```bash
 npm install
 npm run dev
+
 ```
 
 ## Build
